@@ -4,7 +4,7 @@
 
 ---
 
-:snake: **This repository contains *Python* implementations of the programming assignments for the [Machine Learning course](https://www.coursera.org/learn/machine-learning) taught by (Stanford/Coursera).** :snake:
+:snake: **This repository contains *Python* implementations of the programming assignments for the [Machine Learning course](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng (Stanford/Coursera).** :snake:
 
 ---
 
