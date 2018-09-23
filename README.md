@@ -2,6 +2,8 @@
     <h5><b>Created by:</b>  Stanford University and Coursera</h5> </center>
 <img src="./imgs/cover.jpeg" style="width: 400px;"/>
 
+---
+
 :snake: **This repository contains *Python* implementations of the programming assignments for the [Machine Learning course](https://www.coursera.org/learn/machine-learning) taught by (Stanford/Coursera).** :snake:
 
 ---
